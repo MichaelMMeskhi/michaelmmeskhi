@@ -6,9 +6,8 @@
 | || (_| || | | | | || |_) || (_| || (_| |/ /^\ \
 |_| \__,_||_| |_| |_||_.__/  \__,_| \__,_|\/   \/
                                                  
-</pre>                                                 
+<hr>
 
-<pre>
 ~ $ <strong>whoami</strong>
 Login: michaelmm                           Name: Michael M.Meskhi
 Directory: /home/lambdax                   Shell: /usr/bin/zsh
