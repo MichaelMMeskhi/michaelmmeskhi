@@ -4,10 +4,8 @@
 | |  __ _  _ __ ___  | |__    __| |  __ _  \ V / 
 | | / _` || '_ ` _ \ | '_ \  / _` | / _` | /   \ 
 | || (_| || | | | | || |_) || (_| || (_| |/ /^\ \
-|_| \__,_||_| |_| |_||_.__/  \__,_| \__,_|\/   \/
-                                                 
+|_| \__,_||_| |_| |_||_.__/  \__,_| \__,_|\/   \/                                              
 <hr>
-
 ~ $ <strong>whoami</strong>
 Login: michaelmm                           Name: Michael M.Meskhi
 Directory: /home/lambdax                   Shell: /usr/bin/zsh
