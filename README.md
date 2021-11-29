@@ -10,7 +10,7 @@
 Login: michaelmm                           Name: Michael M.Meskhi
 Directory: /home/lambdax                   Shell: /usr/bin/zsh
 
-Bio: Ph.D. student at the University Of Houston working on learning to learn problems such as meta-learning, knowledge representation, and explainable AI.
+Bio: Ph.D. student at the University Of Houston working on <br>     learning to learn problems such as meta-learning, <br>     knowledge representation, and explainable AI.
 
 Projects:
   - Optimizing some non-linear binary programming code I wrote.
